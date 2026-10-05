@@ -24,7 +24,7 @@ export const projects: Project[] = [
     type: "Residential",
     area: "640 m²",
     blurb: "A sculpted oak stair becomes the spine of a three-level family home.",
-    image: "1502005229762-cf1b2da7c5d6",
+    image: "1600566752355-35792bedcfea",
   },
   {
     no: "02",
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     type: "Residential",
     area: "48 m²",
     blurb: "A graphite wet room carved from a single, continuous material palette.",
-    image: "1600566752355-35792bedcfea",
+    image: "1631679706909-1844bbd07221",
   },
   {
     no: "04",
